@@ -1,6 +1,6 @@
 # Scrum Guide Extensions
 
-Welcome to the official GitHub organisation for community-driven **extensions to the Scrum Guide**.
+Welcome to the GitHub organisation for community-driven **extensions to the Scrum Guide**.
 
 Scrum, as defined in the [2020 Scrum Guide](https://scrumguides.org), remains intentionally minimal. Its purpose is to provide the bare essentials of a framework that enables inspection, adaptation, and delivery of value. But as the world of product development evolves, many teams need **additional guidance** to apply Scrum effectively in their specific contexts.
 
